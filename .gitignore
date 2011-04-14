@@ -1,0 +1,21 @@
+# Generic ignore-list for xcode projects
+!.gitignore
+!.gitattributes
+
+# osx noise
+.DS_Store
+profile
+
+# backups
+*.swp
+*~.nib
+\#*\#
+
+# xcode noise
+#build/*
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.mode1v1
+*.mode1v3
+*.mode2v3
