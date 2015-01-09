@@ -7,7 +7,7 @@
 	<key>CFBundleExecutable</key>
 	<string>Vorbis</string>
 	<key>CFBundleGetInfoString</key>
-	<string>Vorbis framework 1.3.2, Copyright © 1994-2009 Xiph.Org Foundation</string>
+	<string>Vorbis framework $(CURRENT_PROJECT_VERSION), Copyright © 1994-2009 Xiph.Org Foundation</string>
 	<key>CFBundleIconFile</key>
 	<string></string>
 	<key>CFBundleIdentifier</key>
@@ -21,10 +21,10 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>1.3.2</string>
+	<string>1</string>
 	<key>CSResourcesFileMapped</key>
 	<true/>
 	<key>NSHumanReadableCopyright</key>
-	<string>Vorbis framework 1.3.2, Copyright © 1994-2009 Xiph.Org Foundation</string>
+	<string>Vorbis framework $(CURRENT_PROJECT_VERSION), Copyright © 1994-2009 Xiph.Org Foundation</string>
 </dict>
 </plist>

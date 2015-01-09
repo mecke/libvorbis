@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Ogg' target in the 'Ogg' project.
+//
+
+#if !defined(DEBUG)
+#pragma pack(2) // Replace -falign-loops=16
+#endif
